@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    static float addition (int p1, int p2){
+    static int addition (int p1, int p2){
         return (p1 + p2);
     }
     static int subtraction(int p1, int p2){
